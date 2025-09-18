@@ -1,0 +1,47 @@
+# schema_pentivium.yaml
+# Minimal structural schema for the Pentivium Proof of Truth
+
+pentivium:
+  wheels:
+    - name: Grammar
+      role: "Existence / Past Stock"
+      irreducibles: [Phonology, Morphology, Lexicon]
+      derivatives: [Word Formation, Expansion, Euphony]
+      crown: "Existence is proven when language is legible, stable, and true to its stock."
+    - name: Logic
+      role: "Consequence / Future"
+      irreducibles: [Syntax, Semantics, Consequence]
+      derivatives: [Validity, Soundness, Deduction]
+      crown: "Reason is proven when outcomes follow without contradiction."
+    - name: Rhetoric
+      role: "Persuasion / Present"
+      irreducibles: [Ethos, Pathos, Logos]
+      derivatives: [Resonance, Trust, Connection]
+      crown: "Persuasion is proven when resonance aligns with truth."
+    - name: Praxis
+      role: "Execution / Results"
+      irreducibles: [Intention, Execution, Results]
+      derivatives: [Effectiveness, Discipline, Responsibility]
+      crown: "Action is proven when results honor intention responsibly."
+    - name: Presence
+      role: "Witness / All Time"
+      irreducibles: [Awareness, Embodiment, Agency]
+      derivatives: [Armament Presence, Presence Projection, Witnessing]
+      crown: "Truth is revealed when all-time witness exposes or upholds the claim."
+
+  geometry:
+    nodes: "Irreducibles and derivatives are nodes."
+    edges: "Lines connecting nodes; represent relationships."
+    triangles: "Each wheel forms a triangle of irreducibles."
+    pentagram: "Five interlocked triangles form the Pentivium star."
+    spiral: "Sequential proofs expand into a Truth Spiral."
+    lattice: "The full interconnected network of all wheels, crowns, and verdicts."
+
+  verdicts:
+    wheel_verdict: "A short judgment sentence at the end of each wheel."
+    crown_verdict: "Final distilled truth that survives all five wheels."
+
+metadata:
+  version: "1.0"
+  license: "Open, public domain"
+  usage: "Use to build tools, run proofs, or extend the canon. Courtesy link to source appreciated."
