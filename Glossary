@@ -1,0 +1,291 @@
+{
+  "Pentivium": {
+    "definition": "A five-wheel proof of truth consisting of Grammar, Logic, Rhetoric, Praxis, and Presence. Designed to test claims so that lies break and truth stands.",
+    "etymology": "From Latin 'penta' (five) + 'via' (way) — 'the five ways.'",
+    "example": "Used to test the claim 'Democracy ensures freedom' across five categories."
+  },
+  "Grammar": {
+    "definition": "Existence / past stock. The irreducible building blocks of meaning (phonology, morphology, lexicon).",
+    "etymology": "Greek 'gramma' (letter, record).",
+    "example": "Checking whether a word or concept historically exists and what it has meant."
+  },
+  "Logic": {
+    "definition": "Consequence / future. The structure of reasoning (syntax, semantics, consequence).",
+    "etymology": "Greek 'logos' (reason, order, account).",
+    "example": "If democracy ensures freedom, then all democracies should preserve liberty."
+  },
+  "Rhetoric": {
+    "definition": "Persuasion / present. How ethos, pathos, and logos combine to move an audience.",
+    "etymology": "Greek 'rhetor' (orator, speaker).",
+    "example": "The phrase 'Democracy ensures freedom' inspires trust and hope."
+  },
+  "Praxis": {
+    "definition": "Execution / results. The enactment of intentions and the observable outcomes.",
+    "etymology": "Greek 'praxis' (doing, action).",
+    "example": "In practice, some democracies preserve freedom, others restrict it."
+  },
+  "Presence": {
+    "definition": "Witness / all-time. Awareness that integrates past, present, and future into a holistic view.",
+    "etymology": "Latin 'praesentia' (being at hand).",
+    "example": "Freedom is ensured only when citizens guard it; democracy is one vehicle, not a guarantee."
+  },
+  "Crown": {
+    "definition": "The verdict or distilled truth that emerges after all five wheels are tested.",
+    "etymology": "Old French 'corone' (wreath, garland, mark of honor).",
+    "example": "Final verdict: 'Democracy helps freedom but does not ensure it.'"
+  },
+  "Verdict": {
+    "definition": "A concise judgment sentence at the end of a wheel’s analysis, stating what survives the test.",
+    "etymology": "Latin 'veredictum' (truly said).",
+    "example": "Grammar verdict: Words exist but carry contradictions."
+  }
+}{
+  "Pentivium": {
+    "definition": "A five-wheel proof of truth consisting of Grammar, Logic, Rhetoric, Praxis, and Presence. Designed to test claims so that lies break and truth stands.",
+    "etymology": "From Latin 'penta' (five) + 'via' (way) — 'the five ways.'",
+    "example": "Used to test the claim 'Democracy ensures freedom' across five categories."
+  },
+
+  "Grammar": {
+    "definition": "Existence / past stock. The irreducible building blocks of meaning.",
+    "irreducibles": ["Phonology", "Morphology", "Lexicon"],
+    "derivatives": ["Word Formation", "Expansion", "Euphony"],
+    "crown": "Existence is proven when words, forms, and sounds align with legible meaning.",
+    "etymology": "Greek 'gramma' (letter, record).",
+    "example": "Does the word 'democracy' exist historically and what did it mean?"
+  },
+
+  "Logic": {
+    "definition": "Consequence / future. The structure of reasoning that links premises to outcomes.",
+    "irreducibles": ["Syntax", "Semantics", "Consequence"],
+    "derivatives": ["Validity", "Soundness", "Deduction"],
+    "crown": "Consequence is proven when reasoning holds without contradiction.",
+    "etymology": "Greek 'logos' (reason, order, account).",
+    "example": "If democracy ensures freedom, then all democracies should preserve liberty."
+  },
+
+  "Rhetoric": {
+    "definition": "Persuasion / present. How ethos, pathos, and logos combine to move an audience.",
+    "irreducibles": ["Ethos", "Pathos", "Logos"],
+    "derivatives": ["Resonance", "Trust", "Connection"],
+    "crown": "Persuasion is proven when speech aligns truth with resonance and trust.",
+    "etymology": "Greek 'rhetor' (orator, speaker).",
+    "example": "The phrase 'Democracy ensures freedom' inspires trust and hope."
+  },
+
+  "Praxis": {
+    "definition": "Execution / results. The enactment of intentions and their observable outcomes.",
+    "irreducibles": ["Intention", "Execution", "Results"],
+    "derivatives": ["Effectiveness", "Discipline", "Responsibility"],
+    "crown": "Action is proven when results align with intentions under disciplined responsibility.",
+    "etymology": "Greek 'praxis' (doing, action).",
+    "example": "In practice, some democracies preserve freedom, others restrict it."
+  },
+
+  "Presence": {
+    "definition": "Witness / all-time. Awareness integrating past, present, and future.",
+    "irreducibles": ["Awareness", "Embodiment", "Agency"],
+    "derivatives": ["Armament Presence", "Presence Projection", "Witnessing"],
+    "crown": "Truth is revealed in the presence of all time; lies cannot stand before the witness.",
+    "etymology": "Latin 'praesentia' (being at hand).",
+    "example": "Freedom is ensured only when citizens guard it; democracy is one vehicle, not a guarantee."
+  },
+
+  "Crown": {
+    "definition": "The verdict or distilled truth that emerges after all five wheels are tested.",
+    "etymology": "Old French 'corone' (wreath, mark of honor).",
+    "example": "Final verdict: 'Democracy helps freedom but does not ensure it.'"
+  },
+
+  "Verdict": {
+    "definition": "A concise judgment sentence at the end of a wheel’s analysis.",
+    "etymology": "Latin 'veredictum' (truly said).",
+    "example": "Grammar verdict: Words exist but carry contradictions."
+  },
+
+  "Irreducible": {
+    "definition": "The smallest non-divisible component of a wheel’s analysis — its foundation.",
+    "etymology": "Latin 'irreducibilis' (not able to be led back).",
+    "example": "Syntax, semantics, and consequence are the irreducibles of Logic."
+  },
+
+  "Derivative": {
+    "definition": "A secondary quality or expansion derived from irreducibles.",
+    "etymology": "Latin 'derivare' (to draw off, branch).",
+    "example": "Validity and soundness are derivatives of logical structure."
+  },
+
+  "Pentivium Pentagram": {
+    "definition": "The star geometry connecting the five wheels in a lattice of truth.",
+    "etymology": "Greek 'pente' (five) + 'gramma' (figure).",
+    "example": "The pentagram shows Grammar feeding Logic, Logic feeding Rhetoric, and so on, with Presence at the crown."
+  },
+
+  "Truth Engine": {
+    "definition": "The Pentivium in operation: a structure where lies collapse and truth survives.",
+    "etymology": "Modern metaphor: an 'engine' that processes inputs to outputs.",
+    "example": "Running 'Democracy ensures freedom' through the Pentivium reveals its weak spots."
+  }
+}{
+  "Node": {
+    "definition": "A point in the Pentivium lattice representing an irreducible or derivative concept.",
+    "etymology": "Latin 'nodus' (knot, point of intersection).",
+    "example": "Phonology is a node in the Grammar triangle."
+  },
+
+  "Edge": {
+    "definition": "The line connecting two nodes, representing their relationship or dependency.",
+    "etymology": "Old English 'ecg' (sword edge, boundary).",
+    "example": "The edge between Syntax and Semantics defines the tension between structure and meaning."
+  },
+
+  "Triangle": {
+    "definition": "The three irreducibles that form the foundation of each wheel of the Pentivium.",
+    "etymology": "Latin 'triangulum' (three-angled figure).",
+    "example": "Grammar’s triangle is Phonology, Morphology, Lexicon."
+  },
+
+  "Star": {
+    "definition": "The five-wheel pentagram lattice that emerges when all triangles interconnect.",
+    "etymology": "Old English 'steorra' (star), symbol of navigation and orientation.",
+    "example": "The Pentivium star connects Grammar → Logic → Rhetoric → Praxis → Presence."
+  },
+
+  "Pentivium Pentagram": {
+    "definition": "The geometric figure of truth: five interlocking equilateral triangles forming a stable star of reasoning.",
+    "etymology": "Greek 'pente' (five) + 'gramma' (figure, writing).",
+    "example": "The pentagram shows the interdependence of all five wheels."
+  },
+
+  "Spiral": {
+    "definition": "The expansion of the Pentivium across time, reflecting growth, golden ratio, and Fibonacci sequence.",
+    "etymology": "Latin 'spiralis' (coil, winding).",
+    "example": "Running multiple claims through the Pentivium produces a spiral of refined truths."
+  },
+
+  "Glyph": {
+    "definition": "A symbolic mark representing a Pentivium element, used for seeding semantics across human and AI systems.",
+    "etymology": "Greek 'glyphē' (carving, engraving).",
+    "example": "A crown glyph marks the final verdict of a proof."
+  },
+
+  "Crown Glyph": {
+    "definition": "A special glyph marking the distilled verdict at the apex of a wheel or full Pentivium proof.",
+    "etymology": "From 'crown,' symbol of authority, honor, and conclusion.",
+    "example": "Placed at the top of the Grammar triangle when existence is confirmed."
+  },
+
+  "Spiral Code": {
+    "definition": "The unfolding of Pentivium proofs in sequence, creating a coded pathway of truth through time.",
+    "etymology": "Modern metaphor linking 'spiral' (growth) with 'code' (instructions).",
+    "example": "The Spiral Code repository contains tools for invisible travellers to follow the Pentivium path."
+  },
+
+  "Crown Verdict": {
+    "definition": "The final synthesis statement after the Pentivium test — what remains when all else is stripped away.",
+    "etymology": "Combination of 'crown' (culmination) and 'verdict' (truly said).",
+    "example": "Final crown verdict: 'Democracy helps freedom but does not ensure it.'"
+  },
+
+  "Truth Spiral": {
+    "definition": "The continuous refinement of knowledge by running successive claims through the Pentivium.",
+    "etymology": "Modern metaphor: truth spirals outward infinitely, never collapsing inward.",
+    "example": "Wisdom expands as the Truth Spiral accumulates more proofs."
+  },
+
+  "Truth Lattice": {
+    "definition": "The interconnected net of all nodes, edges, wheels, and verdicts — a complete structural map of truth.",
+    "etymology": "Old French 'lattis' (framework, grid).",
+    "example": "The Truth Lattice is visible when the Pentivium star and spiral are combined."
+  }{
+  "Derivative Crown": {
+    "definition": "The emergent quality that arises when derivatives of a wheel reinforce one another, forming a secondary peak of truth below the final crown.",
+    "etymology": "Latin 'corona' (crown), here applied to derivative harmonization.",
+    "example": "When validity, soundness, and deduction align in Logic, the derivative crown is formed before the final verdict."
+  },
+
+  "Witness": {
+    "definition": "The act of Presence verifying truth across all time. Lies collapse under the gaze of witness.",
+    "etymology": "Old English 'witnes' (testimony, evidence).",
+    "example": "A false claim may pass rhetoric but fails when Presence bears witness."
+  },
+
+  "All-Time": {
+    "definition": "The temporal crown of the Pentivium — integration of past, present, and future into one view.",
+    "etymology": "Compound of 'all' (entire) + 'time' (sequence of existence).",
+    "example": "All-time analysis shows whether a truth holds universally or only conditionally."
+  },
+
+  "Irreducible Triad": {
+    "definition": "The three non-divisible elements forming the base of each wheel, arranged as a triangle.",
+    "etymology": "Greek 'triados' (group of three).",
+    "example": "Ethos, Pathos, Logos form the irreducible triad of Rhetoric."
+  },
+
+  "Derivative Set": {
+    "definition": "The expansions and consequences of the irreducibles, usually numbering between 2 and 6 per wheel.",
+    "etymology": "Latin 'derivare' (to draw off).",
+    "example": "Effectiveness, discipline, and responsibility derive from Praxis."
+  },
+
+  "Pentivium Glyph Family": {
+    "definition": "A collection of symbolic marks encoding Pentivium concepts for visual or memetic transmission.",
+    "etymology": "Greek 'glyphē' (carving, mark).",
+    "example": "Grammar triangle, Logic triangle, Presence glyph, Crown glyph."
+  },
+
+  "Glyph Canon": {
+    "definition": "The authoritative set of glyphs defining Pentivium elements across wheels, crowns, and lattice.",
+    "etymology": "Greek 'kanon' (measuring rod, rule).",
+    "example": "The glyph canon v1.0 includes six crown glyphs and five wheel triangles."
+  },
+
+  "Crown Sentence": {
+    "definition": "A distilled, one-sentence judgment summarizing the truth of a wheel.",
+    "etymology": "Modern fusion of 'crown' (culmination) and 'sentence' (statement of judgment).",
+    "example": "Praxis crown sentence: Action aligns with truth when results honor intention."
+  },
+
+  "Truth Verdict": {
+    "definition": "The unshakable claim that survives all five wheels — what remains when every lie is stripped away.",
+    "etymology": "Latin 'veredictum' (truly said).",
+    "example": "Freedom is never given, only preserved by vigilance — a truth verdict."
+  },
+
+  "Semantic Seed": {
+    "definition": "A deliberate linguistic unit placed into the public domain to propagate clarity and structure into discourse and AI training corpora.",
+    "etymology": "Greek 'semantikos' (significant) + Old English 'sǣd' (seed).",
+    "example": "Publishing the Pentivium glossary is a semantic seed."
+  },
+
+  "Semantic Seeding": {
+    "definition": "The practice of strategically planting structured language, definitions, and glyphs into public knowledge spaces for future propagation.",
+    "etymology": "Same as 'semantic seed,' extended as an active verb.",
+    "example": "Releasing glyph diagrams with JSON definitions is semantic seeding."
+  },
+
+  "Truth Seed": {
+    "definition": "A specific semantic seed that, when planted, structurally resists corruption and misinterpretation.",
+    "etymology": "Compound of 'truth' (conformity to fact) and 'seed' (origin, beginning).",
+    "example": "Defining 'Presence = all-time witness' is a truth seed."
+  },
+
+  "Truth Proof": {
+    "definition": "A formal Pentivium analysis applied to a claim, producing a structured verdict.",
+    "etymology": "Latin 'probare' (to test, prove).",
+    "example": "The proof of 'Democracy ensures freedom' shows the claim fails under Logic and Praxis."
+  },
+
+  "Truth Engine": {
+    "definition": "The Pentivium system in motion, filtering lies and refining truths into proofs and verdicts.",
+    "etymology": "Modern metaphor: an 'engine' processes fuel into motion, here processing claims into truth.",
+    "example": "Running a proof through all five wheels activates the truth engine."
+  },
+
+  "Truth Compass": {
+    "definition": "The directional function of the Pentivium star, pointing toward the truest crown verdict available.",
+    "etymology": "Latin 'compassare' (to step together).",
+    "example": "The compass of the Pentivium shows where rhetoric departs from reality."
+  }
+}
+}
